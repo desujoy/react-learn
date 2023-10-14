@@ -5,7 +5,6 @@ function Footer() {
     return (
         <footer>
             <p>Copywrite © {year}</p>
-            <p>Created by Sujoy De</p>
         </footer>
     );
 }
